@@ -20,10 +20,7 @@ quietly overdelivering while others charge a premium for the same quality?
 
 ## The Finding
 
-*(Fill this in once the chart is built — 2-3 plain-English sentences on what the data
-actually shows. E.g. "Wines from [region] consistently rate as high as [region] but cost
-[X]% less on average, making them the best value pick in this dataset." Be specific —
-this is the sentence a recruiter will actually read.)*
+*(Most wines cluster around a 4.2–4.4 rating regardless of price up into the hundreds of euros, and only wines above roughly €300–500 start showing a real jump toward 4.7–4.9. In plain terms: paying more only meaningfully improves your odds of a top-rated bottle once you're well into luxury pricing — for the vast majority of the price range, you're not buying a better rating, just a bigger price tag.)*
 
 ## What This Shows
 
